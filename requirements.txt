@@ -1,0 +1,2 @@
+pymumble-py3 @ git+https://github.com/azlux/pymumble.git
+opuslib
