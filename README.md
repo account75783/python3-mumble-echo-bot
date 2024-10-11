@@ -15,3 +15,6 @@ Be sure to set:
 - **Channel**
 
 Feel free to do whatever you want this this code.
+
+## Future improvement ideas?
+Announce the user's packetloss, ping and connection type. pymumble doesn't support gathering this data unfortunatly, at least not yet.
